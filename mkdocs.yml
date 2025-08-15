@@ -1,4 +1,26 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+site_name: SpaceCat
+site_url: https://mopivo.github.io/wiki-serverMindustry/
+repo_url: https://github.com/mopivo/wiki-serverMindustry
+edit_uri: edit/main/docs/
 theme:
+  font:
+    text: Roboto
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - search.highlight
   name: material
+nav:
+  - index.md
+  - состав.md
+  - помощь.md
+  - новости.md
+
+copyright: |
+  Created by mopivo with the support of a can of soda
