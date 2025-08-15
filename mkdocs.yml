@@ -1,7 +1,4 @@
 site_name: SpaceCat
-site_url: https://mopivo.github.io/wiki-serverMindustry/
-repo_url: https://github.com/mopivo/wiki-serverMindustry
-edit_uri: edit/main/docs/
 theme:
   font:
     text: Roboto
