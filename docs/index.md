@@ -2,7 +2,7 @@
 
 <div class="banner-container">
     <div class="banner-content">
-        <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_663741e88bcdab100e6bdd00_66377868bcec5731e5c2c7b4/scale_1200" alt="Mindustry Banner">
+        <img src="t.png" alt="Mindustry Banner">
         <div class="banner-text">Mindustry сервер SpaceCat</div>
     </div>
     <div class="telegram-info">
