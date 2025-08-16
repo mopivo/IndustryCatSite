@@ -2,7 +2,7 @@
 
 <div class="banner-container">
     <div class="banner-content">
-        <img src="t.png" alt="Mindustry Banner">
+        <img src="/t.png" alt="Mindustry Banner">
         <div class="banner-text">Mindustry сервер SpaceCat</div>
     </div>
     <div class="telegram-info">
